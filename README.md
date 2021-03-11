@@ -36,10 +36,10 @@ You can review the source code and trasactions through BSC explorer (e.g., BscSc
 
 Contract | Address | Explorer
 -|-|-
-BnbShare | 0xC32D83ffbFe78673e9C79ccE8694Cb435893e738 | [BscScan]("https://bscscan.com/address/0xC32D83ffbFe78673e9C79ccE8694Cb435893e738/code) |
-BnbShareLike | 0x4bb56E1ec17e97457cb2736CeE4cD3Cd0e1e184B | [BscScan]("https://bscscan.com/address/0x4bb56E1ec17e97457cb2736CeE4cD3Cd0e1e184B/code) |
-BnbShareReward | 0xE200D20b6A242142D9671F4eBc401AE33d491Eeb | [BscScan]("https://bscscan.com/address/0xE200D20b6A242142D9671F4eBc401AE33d491Eeb/code) |
-BnbShareReward2 | 0x87C5848F16390B85afE52584D5a563ceE89792cE | [BscScan]("https://bscscan.com/address/0x87C5848F16390B85afE52584D5a563ceE89792cE/code) |
+BnbShare | 0xC32D83ffbFe78673e9C79ccE8694Cb435893e738 | [BscScan](https://bscscan.com/address/0xC32D83ffbFe78673e9C79ccE8694Cb435893e738/code) |
+BnbShareLike | 0x4bb56E1ec17e97457cb2736CeE4cD3Cd0e1e184B | [BscScan](https://bscscan.com/address/0x4bb56E1ec17e97457cb2736CeE4cD3Cd0e1e184B/code) |
+BnbShareReward | 0xE200D20b6A242142D9671F4eBc401AE33d491Eeb | [BscScan](https://bscscan.com/address/0xE200D20b6A242142D9671F4eBc401AE33d491Eeb/code) |
+BnbShareReward2 | 0x87C5848F16390B85afE52584D5a563ceE89792cE | [BscScan](https://bscscan.com/address/0x87C5848F16390B85afE52584D5a563ceE89792cE/code) |
 
 
 You can also review all the source code on `contract/`.
