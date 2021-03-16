@@ -1,6 +1,6 @@
 # BnbShare
 
-[Bnb] is a project to share information on Binance Smart Chain.
+[BnbShare](http://BnbShare.github.io) is a project to share information on Binance Smart Chain.
 
 > The website is not the only one entry to BnbShare. BnbShare is a DApp. So you can download the html files to your own server or access the contract in other ways.
 
@@ -30,7 +30,7 @@ After that, you can visit `localhost` to use BnbShare (MetaMask or other BSC DAp
 
 The contract addresses are 0xC32D83ffbFe78673e9C79ccE8694Cb435893e738, 0x4bb56E1ec17e97457cb2736CeE4cD3Cd0e1e184B,  0xE200D20b6A242142D9671F4eBc401AE33d491Eeb, 0x87C5848F16390B85afE52584D5a563ceE89792cE.
 
-You can find the state of it on [StateOfTheDApps](https://www.stateofthedapps.com/dapps/BnbShare), [DApp.com](https://www.dapp.com/dapp/BnbShare), [DAppRadar](https://dappradar.com/tron/social/BnbShare).
+You can find the state of it on [DAppReview](https://dapp.review/dapp/BnbShare), [DApp.com](https://www.dapp.com/dapp/BnbShare), [DAppRadar](https://dappradar.com/binance-smart-chain/other/BnbShare).
 
 You can review the source code and trasactions through BSC explorer (e.g., BscScan.com): 
 
